@@ -1,0 +1,9 @@
+title: Mise
+description: Weekly meal plans and smart shopping lists by TEGS Labs Ltd
+baseurl: "/mise"
+url: "https://gregstarr7.github.io"
+contact_email: support@mise.app
+
+markdown: kramdown
+theme: null
+plugins: []
