@@ -7,11 +7,9 @@ subtitle: Need help with Mise? Email us and we'll get back to you as soon as we 
 
 ## Contact
 
-**[support@mise.app](mailto:support@mise.app)**
+**[contact.mise.app@gmail.com](mailto:contact.mise.app@gmail.com)**
 
-Use this for bugs, subscription questions, feedback, or account and data deletion requests.
-
-You can also reach us at **[misesupport@gmail.com](mailto:misesupport@gmail.com)** for legal or account-related enquiries.
+Use this for bugs, subscription questions, feedback, legal enquiries, or account and data deletion requests.
 
 ## Common questions
 
@@ -25,7 +23,7 @@ Mise combines ingredients across your week's recipes into one list, grouped for 
 [Open Apple subscription settings](https://apps.apple.com/account/subscriptions).
 
 **Delete your account or data?**  
-Email us at [support@mise.app](mailto:support@mise.app) and ask for your account and associated data to be deleted.
+Email us at [contact.mise.app@gmail.com](mailto:contact.mise.app@gmail.com) and ask for your account and associated data to be deleted.
 
 **Allergies and dietary requirements**  
 Mise uses the preferences you set during onboarding to filter recipes. Always check ingredient labels and recipes before cooking — we cannot guarantee allergen safety.

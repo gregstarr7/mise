@@ -16,7 +16,7 @@ By using Mise, you agree to the collection and use of information in accordance 
 Mise is operated by:
 
 TEGS LABS LTD  
-Email: [support@mise.app](mailto:support@mise.app)
+Email: [contact.mise.app@gmail.com](mailto:contact.mise.app@gmail.com)
 
 For the purposes of UK data protection law, TEGS LABS LTD is the data controller of your personal information.
 
@@ -145,11 +145,11 @@ Subject to applicable law, you may have the right to:
 - Receive a copy of your information
 - Withdraw consent where consent is the legal basis
 
-To exercise these rights, contact us at [support@mise.app](mailto:support@mise.app).
+To exercise these rights, contact us at [contact.mise.app@gmail.com](mailto:contact.mise.app@gmail.com).
 
 ## 12. Account Deletion
 
-You may request deletion of your account and associated personal information by contacting [support@mise.app](mailto:support@mise.app).
+You may request deletion of your account and associated personal information by contacting [contact.mise.app@gmail.com](mailto:contact.mise.app@gmail.com).
 
 We may retain certain information where required for legal, accounting, fraud prevention, or regulatory purposes.
 
@@ -176,6 +176,6 @@ When material changes are made, we will notify users through the Service or by e
 If you have questions about this Privacy Policy or how your information is handled, please contact:
 
 TEGS LABS LTD  
-Email: [contactmise@gmail.com](mailto:contactmise@gmail.com)
+Email: [contact.mise.app@gmail.com](mailto:contact.mise.app@gmail.com)
 
 If you are dissatisfied with our handling of your personal information, you may lodge a complaint with the UK Information Commissioner's Office (ICO): [https://ico.org.uk](https://ico.org.uk)

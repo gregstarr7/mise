@@ -128,6 +128,6 @@ Any dispute arising from or relating to the Service shall be subject to the excl
 ## 16. Contact Information
 
 TEGS LABS LTD  
-Email: [misesupport@gmail.com](mailto:misesupport@gmail.com)
+Email: [contact.mise.app@gmail.com](mailto:contact.mise.app@gmail.com)
 
 For support, legal enquiries, or account-related questions, please contact us using the details above.
