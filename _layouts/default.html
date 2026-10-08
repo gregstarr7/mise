@@ -12,9 +12,9 @@
       <div class="site-header-inner">
         <a class="site-logo" href="{{ '/' | relative_url }}">Mise</a>
         <nav class="site-nav">
-          <a href="{{ '/support.html' | relative_url }}">Support</a>
-          <a href="{{ '/privacy.html' | relative_url }}">Privacy</a>
-          <a href="{{ '/terms.html' | relative_url }}">Terms</a>
+          <a href="{{ '/support.html' | relative_url }}?v={{ site.legal_cache_bust }}">Support</a>
+          <a href="{{ '/privacy.html' | relative_url }}?v={{ site.legal_cache_bust }}">Privacy</a>
+          <a href="{{ '/terms.html' | relative_url }}?v={{ site.legal_cache_bust }}">Terms</a>
         </nav>
       </div>
     </header>
